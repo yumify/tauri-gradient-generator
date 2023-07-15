@@ -1,2 +1,2 @@
 # tauri-gradient-generator
-im new to tauri
+no longer maintained but maybe there are will be web version
